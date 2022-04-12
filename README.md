@@ -1,5 +1,5 @@
 loopback-headstart
-# Loopback - Headstart
+# LoopBack - Headstart
 
 Based on "LoopBack" at loopback.io
 
